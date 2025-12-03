@@ -111,8 +111,16 @@ Some commonly used datasets:
 3. Run each cell sequentially  
 4. Install required libraries if needed:
 
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn tensorflow torch
+-----------------------------------------------------------------------------------------------------------
+                                                Follow Me
+-----------------------------------------------------------------------------------------------------------
+🤝 Contributing
+Feel free to fork the repository, improve the project, and submit a pull request.
 
+🔗 Connect With Me
+If you want to see more ML projects, tutorials, and updates, follow me on:
+GitHub
+LinkedIn: https://www.linkedin.com/in/sushil-kumar-471614289/
 
-
+🙌 Thank You for Visiting This Repository!
+Happy Learning and Keep Exploring Machine Learning 🚀
