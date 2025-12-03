@@ -2,6 +2,7 @@
 Hands-on Machine Learning projects implemented in Google Colab covering Regression, Classification, Clustering, Dimensionality Reduction, Feature Engineering, Neural Networks, Deep Learning, and Reinforcement Learning with real-world datasets.
 
 # 📘 Machine Learning – Practical Projects & Algorithms
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A comprehensive collection of **50+ Machine Learning projects**, concepts, and algorithms implemented using **Python**, **Google Colab**, **Scikit-Learn**, **TensorFlow**, and **PyTorch**.
 
