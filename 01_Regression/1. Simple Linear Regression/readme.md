@@ -1,4 +1,4 @@
-#Simple Linear Regression – Student Score Prediction
+# Simple Linear Regression – Student Score Prediction
 
 A beginner-friendly Machine Learning project that predicts a student's exam score based on the number of hours they study, using Simple Linear Regression.
 
